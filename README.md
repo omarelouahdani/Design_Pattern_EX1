@@ -1,1 +1,1 @@
-"# Pattern-Strategy-Ex1-d-impl-mentation" 
+"# Design_Pattern_EX1" 
